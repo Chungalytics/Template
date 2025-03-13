@@ -33,7 +33,15 @@ Template
 
 - What is the key pain point?
 
+The B2B team wants an overview to follow up
+
 - What is the ideal solution? 
+
+To create a dashboard that provides insight into the following points:
+1
+2
+3
+4
 
 ## User story 
 
