@@ -49,6 +49,8 @@ To create a dashboard that provides insight into the following points:
 
 - What data is needed to achieve our objective?
 
+We need data on 
+
 We need data
 
 - Where is the data coming from?
